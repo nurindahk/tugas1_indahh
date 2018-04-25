@@ -1,0 +1,7 @@
+cara membeli barang secara online :
+1.masuk ke aplikasi belanja online 
+2.lakukan login
+3.pilih barang yang di inginkan
+4.masukkan alamat pengiriman
+5.lalu setelah yakin semuanya benar tunggu sebentar dan akan dapat kode pembayaran
+6.terakhir, lakukan pembayaran
