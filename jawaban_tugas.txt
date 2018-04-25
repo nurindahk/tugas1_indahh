@@ -1,0 +1,3 @@
+1.membuat algoritma dari deret bilangan yang pertama adalah tentukan bilangan awal misalnya 3 lalu untuk angka selanjutnya tambahkan angka 2 maka angka setelah 3 adalah 5 begitu seterusnya hingga menjadi deret bilangan. contoh 3,5,7,9
+2.1,3,6,9,27,30 
+bagaimana deret tersebut bisa dihasilkan karena dibarisan tersebut memiliki beda atau rasio 3 angka.
